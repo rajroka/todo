@@ -1,0 +1,20 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+
+
+.add-button{
+ font-family: Verdana, Geneva, Tahoma, sans-serif;
+ font-size: large;
+}
+
+.li{
+  align-items: center ;
+}
+
+.ol{
+  justify-content: center;
+}
